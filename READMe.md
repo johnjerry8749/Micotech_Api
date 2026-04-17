@@ -80,7 +80,7 @@ nodemon
 ---
 ## Base URL
 
-http://localhost:5000/api
+https://micotech-api.onrender.com/api
 
 ---
 

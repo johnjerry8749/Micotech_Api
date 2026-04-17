@@ -1,5 +1,5 @@
 import pool from "../config/db.js";
-import { validatePost } from "../utils/validation.js";
+import { validatePost } from "../Utils/validation.js";
 
 
 export const createPost = async (userId, data) => {
